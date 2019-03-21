@@ -5,3 +5,6 @@
 #Licencja
 
 MIT
+
+#Autor
+Tomasz Krasuski
