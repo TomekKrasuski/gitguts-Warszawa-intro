@@ -4,7 +4,7 @@
 
 #Licencja
 
-MIT 2.0
+CC
 
 #Autor
 Tomasz Krasuski
