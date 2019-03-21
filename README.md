@@ -8,3 +8,6 @@ APACHE
 
 #Autor
 Tomasz Krasuski
+
+#wymagania
+node.js
