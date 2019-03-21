@@ -4,7 +4,7 @@
 
 #Licencja
 
-APACHE
+Apache commons 2 to licencja fajna
 
 #Autor
 Tomasz Krasuski
