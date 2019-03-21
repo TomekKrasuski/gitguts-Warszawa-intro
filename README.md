@@ -8,3 +8,6 @@ MIT
 
 #Autor
 Tomasz Krasuski
+
+#wymagania
+node.js
