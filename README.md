@@ -7,7 +7,7 @@
 CC
 
 #Autor
-Tomasz Krasuski
+Projekt mój osobisty
 
 #wymagania
 node.js
