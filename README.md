@@ -4,7 +4,7 @@
 
 #Licencja
 
-APACHE
+MIT 2.0
 
 #Autor
 Tomasz Krasuski
