@@ -11,3 +11,6 @@ Projekt mój osobisty
 
 #wymagania
 node.js
+
+#Koniec pliku
+to już ostatnie zadanie
